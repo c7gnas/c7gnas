@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,nix,rust,typescript,react,next,pytorch&perline=3" />
   </a>
 </p>
 
-[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/:badgeContent
-)
+-  ![Static Badge](https://img.shields.io/badge/discord-kaka.shi-blue)
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
