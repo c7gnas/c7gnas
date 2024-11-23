@@ -14,6 +14,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
