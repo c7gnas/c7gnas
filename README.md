@@ -15,7 +15,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/:badgeContent
+)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
