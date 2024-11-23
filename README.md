@@ -1,5 +1,5 @@
-## Hi there 👋
-![Header](./hd image.png)
+## ![github-header-image (1)](https://github.com/user-attachments/assets/fba790e9-d6a7-4b04-a54d-2b5c535574e2)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7gnas&show_icons=true&theme=synthwave)
 
