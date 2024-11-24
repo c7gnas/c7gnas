@@ -1,5 +1,5 @@
 # ![github-header-image (1)](https://github.com/user-attachments/assets/fba790e9-d6a7-4b04-a54d-2b5c535574e2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniruddhachowdhury231/) ![Static Badge](https://img.shields.io/badge/discord-kaka.shi-blue) ![](https://komarev.com/ghpvc/?username=c7gnas&label=PROFILE+VIEWS) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniruddhachowdhury231/) ![Static Badge](https://img.shields.io/badge/discord-kaka.shi-blue)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
  
@@ -30,6 +30,8 @@
 <!--END_SECTION:waka-->
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=c7gnas&icon=0&color=9)](https://visitcount.itsvg.in)
 
 
 
