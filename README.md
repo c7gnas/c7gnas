@@ -1,6 +1,11 @@
-## ![github-header-image (1)](https://github.com/user-attachments/assets/fba790e9-d6a7-4b04-a54d-2b5c535574e2)
+## Hello, I am Aniruddha
 
- ![Static Badge](https://img.shields.io/badge/discord-kaka.shi-blue)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
+<br><br>
+
+ ![Static Badge](https://img.shields.io/badge/discord-kaka.shi-blue) ![Static Badge](https://img.shields.io/badge/medium-aniruddha-white)
+
+ I dabble into cybersecurity, LLMs and web development. Check out my repos and blogs.
 
 ## 💻 Tech Stack:
 
