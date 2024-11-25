@@ -35,8 +35,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=c7gnas&theme=radical&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=c7gnas&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=c7gnas&theme=aura&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c7gnas&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=c7gnas&theme=aura&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=c7gnas&theme=aura&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c7gnas&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
